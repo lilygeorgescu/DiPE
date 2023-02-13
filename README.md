@@ -5,13 +5,7 @@
 ### 📜 Arxiv Link: https://arxiv.org/abs/2210.12388
 
 ### 🌟 Overview
-We propose a novel strategy to generate ensembles of different
-architectures for medical image segmentation, by leveraging the
-diversity (decorrelation) of the models forming the ensemble. More
-specifically, we utilize the Dice score among model pairs to esti-
-mate the correlation between the outputs of the two models forming
-each pair. To promote diversity, we select models with low Dice
-scores among each other.
+We propose a novel strategy to generate ensembles of different architectures for medical image segmentation, by leveraging the diversity (decorrelation) of the models forming the ensemble. More specifically, we utilize the Dice score among model pairs to estimate the correlation between the outputs of the two models forming each pair. To promote diversity, we select models with low Dice scores among each other.
 
 
 ### 🔒 License
